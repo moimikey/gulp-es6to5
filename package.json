@@ -1,0 +1,23 @@
+{
+  "name": "gulp-es6to5",
+  "description": "Transpile ES6 code to ES5 without runtime",
+  "keywords": [
+    "gulpplugin",
+    "es5",
+    "es6"
+  ],
+  "version": "1.0.1",
+  "homepage": "https://github.com/christophehurpeau/gulp-es6to5",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:christophehurpeau/gulp-es6to5.git"
+  },
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "6to5": "^1.7.0",
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.2",
+    "vinyl-sourcemaps-apply": "^0.1.4"
+  }
+}
