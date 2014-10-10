@@ -6,7 +6,7 @@
     "es5",
     "es6"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/christophehurpeau/gulp-es6to5",
   "repository": {
     "type": "git",
@@ -15,9 +15,9 @@
   "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
   "license": "MIT",
   "dependencies": {
-    "6to5": "^1.7.0",
+    "6to5": "^1.7.8",
     "gulp-util": "^3.0.1",
-    "through2": "^0.6.2",
+    "through2": "^0.6.3",
     "vinyl-sourcemaps-apply": "^0.1.4"
   }
 }
